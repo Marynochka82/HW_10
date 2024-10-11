@@ -1,0 +1,131 @@
+    1  man
+    2  man ls
+    3  % man ls
+    4  man
+    5  help
+    6  E:
+    7  cd e
+    8  cd c:cd e:cd Marina
+    9  ls
+   10  man [ls]
+   11  ls
+   12  pwd
+   13  man cd
+   14  man ls
+   15  ls
+   16  q
+   17  help ls
+   18  man -k ls
+   19  help help
+   20  cls
+   21  clear
+   22  help help 
+   23  help -d ls
+   24  info ls
+   25  dir
+   26  ls
+   27  git config --global user.mane "Marynochka82"
+   28  [200~git config --global user.mane "Marynochka82"
+   29  git config --global user.name "Marynochka82"
+   30  git config --global user.email zykm@ukr.net
+   31  gat config
+   32  git config
+   33  cd
+   34  cd ~
+   35  dir
+   36  pwd
+   37  E:pwd
+   38  pwd
+   39  cd e
+   40  e:
+   41  cd /e/
+   42  pwd
+   43  ls
+   44  cd goit
+   45  cd ..
+   46  mkdir lesson
+   47  ls
+   48  cd lesson
+   49  touch empty.txt
+   50  dir
+   51  ls
+   52  clear
+   53  ls
+   54  vim empty.txt
+   55  pwd
+   56  cd e/
+   57  cd /e
+   58  cd lesson
+   59  vim empty.txt
+   60  vim empty.txt
+   61  nano empty.txt
+   62  cat empty.txt
+   63  mkdir copy
+   64  ls
+   65  cp empty.txt \copy
+   66  cd copy
+   67  ls
+   68  cd..
+   69  cd ..
+   70  touch empty2.txt
+   71  mv empty2.txt \copy
+   72  ls
+   73  cd copy
+   74  ls
+   75  rm empty2.txt
+   76  ls
+   77  cd ..
+   78  ping google.com
+   79  date
+   80  system_profiler
+   81  df -h
+   82  ifconfig
+   83  whoami
+   84  ifconfig
+   85  chmod 777 empty.txt
+   86  git config --global user.name "Marynochka82"
+   87  git config --global user.email zykm@ukr.net
+   88  git clone https://github.com/Marynochka82/HW_10.git
+   89  git status
+   90  cd HW_10
+   91  git status
+   92  touch new.txt
+   93  git status
+   94  git status
+   95  git log
+   96  git branch
+   97  touch text_ignore.txt
+   98  ls
+   99  nano .gitignore
+  100  git status
+  101  git add .gitignore
+  102  git status
+  103  git commit -m task1
+  104  git status
+  105  git add main_test.txt
+  106  touch main_test.txt
+  107  git add main_test.txt
+  108  git commit -m task2
+  109  git status
+  110  git push
+  111  git add text_ignore.txt
+  112  git checkout -b develop
+  113  git checkout develop
+  114  git branch
+  115  touch develop_test.txt
+  116  git add develop_test.txt
+  117  git commit -m task3_4
+  118  nano develop_test.txt
+  119  git status
+  120  git add develop_test.txt
+  121  git status
+  122  git commit -m task3_8
+  123  git chekout main
+  124  git checkout main
+  125  git merge develop
+  126  git branch
+  127  git commit -m task 4
+  128  git commit -m "task4"
+  129  git log
+  130  git status
+  131  history > command_list.csv
